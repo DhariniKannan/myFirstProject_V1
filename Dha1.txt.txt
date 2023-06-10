@@ -1,1 +1,3 @@
-upload to remote repo
+First add to index
+commit to git
+push to remote repo
